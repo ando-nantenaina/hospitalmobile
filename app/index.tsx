@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <View style={styles.container}>
       <View style={styles.main}>
-        <Text style={styles.title}>Bonjour tout le monde!
+        <Text style={styles.title}>Bonjour !
         </Text>
         <Text style={styles.subtitle}>This is the first page of your app.</Text>
       </View>
